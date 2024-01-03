@@ -1,0 +1,25 @@
+.mango{
+    background-color: magenta;
+    border:20px solid green;
+    margin:2%;
+    box-shadow: 10px 20px 15px ;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+}
+.banana{
+    background-color: cadetblue;
+    border:20px solid yellow;
+    margin: 2%;
+    font-size:xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    box-shadow: 10px 12px 5px;
+}
+.butter{
+    background-color: sienna;
+    border:30px solid tomato;
+    margin: 20px;
+    font-size:larger ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
